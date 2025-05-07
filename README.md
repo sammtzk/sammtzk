@@ -20,7 +20,7 @@ I'm also a lifelong musician, which fuels my creativity and discipline.
 
 ## *Projects*
 
-#### [Enhancing Quality and Efficiency in Clinical Decision Support](https://github.com/johnmelel/Capstone) | Capstone, Mar 2025 - Present
+#### [Reinforcement Learning-Driven Multi-Agent Framework for Unifying Clinical Imaging and Text Retrieval](https://github.com/johnmelel/Capstone) | Capstone, Mar 2025 - Present
 - Proposed and developed a multi-agent AI system that utilizes reinforcement learning and integrates with a centralized multimodal vector store to deliver dynamic, accurate, and timely clinical decision support.
 - Developed with a team as part of the MS-ADS Research Capstone: GPT in Healthcare for the radiology team at the University of Chicago Medicine.
 
