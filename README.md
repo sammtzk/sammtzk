@@ -16,7 +16,6 @@ with the goal of improving care for individuals as well as easing the cognitive 
 
 My experience as a teacher in both mathematics and German has reinforced my belief in the power of data literacy and cross-cultural communication.
 Whether through statistical modeling, collaborative problem-solving, or multilingual engagement, I strive to make complex data insights both accessible and actionable.
-I'm also a lifelong musician, which fuels my creativity and discipline.
 
 ## *Projects*
 
